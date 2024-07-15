@@ -108,3 +108,8 @@ I did not remove the base layers on my legs.. I was still kinda overheating.. I 
 
 I will not wear cotton pants again. I sweat through the seat. I think a wool poly pant will be perfect.  I need to find a good set from the surplus store. 
 
+## Photos
+
+(I will write a script to embed these later.Meta requires a business accoun tot do this.. I tried to hack it.. but they want an access token... I hate link clicking.)
+
+[InstaLink](https://www.instagram.com/p/C9adc2otXE6/)

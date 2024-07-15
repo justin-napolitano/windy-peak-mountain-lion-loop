@@ -87,3 +87,24 @@ I'll carry an 18 liter bag with
     * Jeans
     * Button down
 
+## The Hike
+
+### Outline
+
+* Time 3.5 hours
+* Water consumption : 3 Liters
+* Views : 3/5
+* Fun : 3/5
+* Difficulty 2/5
+
+
+### Gear Review
+
+I overdressed... Again.   I was overheating early in the hike so I removed my base layer. I felt more comfortable in a sun hoody. 
+
+I did not remove the base layers on my legs.. I was still kinda overheating.. I ned to find a solution for summer baselayers
+
+### Cotton Pants
+
+I will not wear cotton pants again. I sweat through the seat. I think a wool poly pant will be perfect.  I need to find a good set from the surplus store. 
+

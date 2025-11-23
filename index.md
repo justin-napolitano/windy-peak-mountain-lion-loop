@@ -1,115 +1,51 @@
-+++
-title =  "Windy Peak Via Mountain Lion Loop"
-description = "A nice day hike"
-author = "Justin Napolitano"
-tags = ["hiking"]
-images = ["images/feature-image.png"]
-categories = ['adventures']
-date = "2024-07-13T16:29:26-05:00"
-
-+++
-
-# Windy Peak via Mountain Lion Loop
-
-I do not know much about this little day hike.. It seems to be fairly doable despite an all trails hard rating. I'll find out in the am 
+---
+slug: "github-windy-peak-mountain-lion-loop"
+title: "windy-peak-mountain-lion-loop"
+repo: "justin-napolitano/windy-peak-mountain-lion-loop"
+githubUrl: "https://github.com/justin-napolitano/windy-peak-mountain-lion-loop"
+generatedAt: "2025-11-23T09:52:19.635488Z"
+source: "github-auto"
+---
 
 
+# Windy Peak via Mountain Lion Loop: Project Reference
 
+## Motivation
 
-## Details
+This project serves as a personal documentation and planning tool for a day hike on Windy Peak accessed via the Mountain Lion Loop trail in Colorado. The motivation is to consolidate hike details, gear planning, and personal observations in one place to facilitate preparation and reflection for future trips.
 
-* [All Trails Link](https://www.alltrails.com/trail/us/colorado/mountain-lion-windy-peak-summit?sh=wzox3b)
+## Problem Addressed
 
-* Driving Directions: Coal Creek Canyon, Colorado 80403
-* Trail Head : [Nott Creek Trailhead](https://maps.app.goo.gl/H8DFYxX4ib7D3sM86)
-* Park Info: [site](https://cpw.state.co.us/placestogo/parks/goldengatecanyon)
+Outdoor hikes require careful planning regarding route, gear, nutrition, and timing. This documentation addresses the lack of a centralized, personal reference for this specific trail, which is rated as hard on All Trails but subjectively manageable. It captures practical insights that are not typically available in generic trail descriptions.
 
-## Plan
+## How It's Built
 
-### Driving
+The project is a single Markdown file (`index.md`) formatted with front matter metadata suitable for static site generators. It includes structured sections covering hike details, driving directions, gear lists, food planning, and a post-hike gear review.
 
-* Leave Littleon in the AM around 5 am.
-* Arrive around 6 am
+Links to external resources such as All Trails, Google Maps, and the Colorado Parks and Wildlife site are embedded for quick reference.
 
-### Food
+## Implementation Details
 
-I'll bring about 1000 calories. 
+- **Metadata**: The front matter includes title, description, author, tags, categories, and date, enabling easy integration with static site tools.
 
-* Dates
-* Figs
-* Almonds
-* A cliff bar
+- **Content Structure**: The content is divided into logical sections: Details, Plan (with subcategories for driving, food, gear, car), The Hike (outline and gear review).
 
+- **Gear Lists**: Detailed lists for backpack contents, sling bag items, clothing, shoes, and accessories reflect practical considerations and adjustments based on experience.
 
-### Gear
+- **Post-Hike Review**: Honest evaluation of gear choices and comfort levels, highlighting areas for improvement such as clothing material suitability for summer heat.
 
-#### Back Pack 
+- **Links**: External URLs provide context and additional information, reducing duplication and keeping the document concise.
 
-I'll carry an 18 liter bag with
+## Practical Notes
 
-* Possibles Sack
-* 3l water in the pack
-* A wind hoodie
-* A lightweight fleece just in case
+- The project does not include software or code beyond Markdown documentation, emphasizing its role as a reference rather than an application.
 
-#### Sling Bag
+- The structure supports incremental updates and expansions, such as adding photos or GPS data.
 
-* Food
-* Headlight
-* Backpack
-* Sunnies
+- The tone is pragmatic and focused on utility, avoiding motivational or lifestyle language.
 
-#### Clothing
+- This documentation can be adapted for other hikes or outdoor activities with minimal changes.
 
-* Modified Base Layer
-* Sun Hoodie
-* Carpenter Pants or old jeans
-* Face Covering
-* Wool Socks
+## Summary
 
-#### Shoes
-
-* Trail Runners
-
-#### Accesories 
-
-* Hat
-* Sun Gloves
-
-
-### Car
-
-* Extra Water
-* Wool Blanket
-* Change of clothing 
-    * Base
-    * T shirt
-    * Jeans
-    * Button down
-
-## The Hike
-
-### Outline
-
-* Time 3.5 hours
-* Water consumption : 3 Liters
-* Views : 3/5
-* Fun : 3/5
-* Difficulty 2/5
-
-
-### Gear Review
-
-I overdressed... Again.   I was overheating early in the hike so I removed my base layer. I felt more comfortable in a sun hoody. 
-
-I did not remove the base layers on my legs.. I was still kinda overheating.. I ned to find a solution for summer baselayers
-
-### Cotton Pants
-
-I will not wear cotton pants again. I sweat through the seat. I think a wool poly pant will be perfect.  I need to find a good set from the surplus store. 
-
-## Photos
-
-(I will write a script to embed these later.Meta requires a business accoun tot do this.. I tried to hack it.. but they want an access token... I hate link clicking.)
-
-[InstaLink](https://www.instagram.com/p/C9adc2otXE6/)
+This repository exemplifies a practical approach to documenting outdoor activities with a focus on utility and personal reflection. It provides a clear, structured reference that supports preparation, execution, and post-activity evaluation for the Windy Peak via Mountain Lion Loop hike.

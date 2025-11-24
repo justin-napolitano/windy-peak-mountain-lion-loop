@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - gear planning
   - trail review
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post centers on documentation and practical reflections about a hiking route including gear
+  review, route planning, and post-activity evaluation, which aligns closely with the 'Climbing'
+  family that covers hiking, climbing, outdoor gear, and routines.
 ---
 
 # Windy Peak via Mountain Lion Loop: Project Reference
@@ -63,3 +69,4 @@ Links to external resources such as All Trails, Google Maps, and the Colorado Pa
 ## Summary
 
 This repository exemplifies a practical approach to documenting outdoor activities with a focus on utility and personal reflection. It provides a clear, structured reference that supports preparation, execution, and post-activity evaluation for the Windy Peak via Mountain Lion Loop hike.
+

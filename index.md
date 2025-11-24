@@ -1,12 +1,26 @@
 ---
-slug: "github-windy-peak-mountain-lion-loop"
-title: "windy-peak-mountain-lion-loop"
-repo: "justin-napolitano/windy-peak-mountain-lion-loop"
-githubUrl: "https://github.com/justin-napolitano/windy-peak-mountain-lion-loop"
-generatedAt: "2025-11-23T09:52:19.635488Z"
-source: "github-auto"
+slug: github-windy-peak-mountain-lion-loop
+title: Windy Peak via Mountain Lion Loop Hike Documentation and Gear Review
+repo: justin-napolitano/windy-peak-mountain-lion-loop
+githubUrl: https://github.com/justin-napolitano/windy-peak-mountain-lion-loop
+generatedAt: '2025-11-23T09:52:19.635488Z'
+source: github-auto
+summary: >-
+  Comprehensive personal documentation for Windy Peak hike via Mountain Lion Loop including route
+  details, gear lists, and post-hike evaluation.
+tags:
+  - outdoor-activities
+  - gear-review
+  - trail-planning
+  - windy-peak
+  - colorado-hikes
+seoPrimaryKeyword: windy peak mountain lion loop
+seoSecondaryKeywords:
+  - hike documentation
+  - gear planning
+  - trail review
+seoOptimized: true
 ---
-
 
 # Windy Peak via Mountain Lion Loop: Project Reference
 

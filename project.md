@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/windy-peak-mountain-lion-loop
 generatedAt: '2025-11-24T21:36:51.201Z'
 source: github-auto
 summary: >-
-  A comprehensive hiking guide and personal log for the Windy Peak trail,
-  including gear recommendations and future enhancements.
+  A comprehensive hiking guide and personal log for the Windy Peak trail, including gear
+  recommendations and future enhancements.
 tags:
   - markdown
   - static site
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - GPS data
   - multi-day trip planning
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: climbing
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -82,3 +82,4 @@ windy-peak-mountain-lion-loop/
 ---
 
 For more information, visit the [GitHub repository](https://github.com/justin-napolitano/windy-peak-mountain-lion-loop).
+
